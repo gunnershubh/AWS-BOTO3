@@ -1,2 +1,2 @@
-# TagsAWS
-Add Tags to AWS EC2 machine using Python Boto3. 
+ Adding Tags to Ec2 machines.
+ Listing out S3 buckets. 
